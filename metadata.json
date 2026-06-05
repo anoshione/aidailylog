@@ -1,0 +1,11 @@
+{
+  "name": "Minimalist AI Log",
+  "description": "An extremely minimal, voice-first AI activity tracker.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
